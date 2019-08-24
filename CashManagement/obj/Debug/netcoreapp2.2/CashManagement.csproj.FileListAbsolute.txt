@@ -1,0 +1,3 @@
+D:\Users\bsi80073\source\repos\CashManagement\CashManagement\obj\Debug\netcoreapp2.2\CashManagement.csproj.CoreCompileInputs.cache
+D:\Users\bsi80073\source\repos\CashManagement\CashManagement\obj\Debug\netcoreapp2.2\CashManagement.AssemblyInfoInputs.cache
+D:\Users\bsi80073\source\repos\CashManagement\CashManagement\obj\Debug\netcoreapp2.2\CashManagement.AssemblyInfo.cs
